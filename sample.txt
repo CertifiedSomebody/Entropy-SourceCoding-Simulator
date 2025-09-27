@@ -1,0 +1,2 @@
+This is a simple example text for testing entropy and source coding simulations.
+It contains repeated characters and words to produce meaningful symbol probabilities.
